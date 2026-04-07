@@ -17,5 +17,3 @@ Web application developed to manage inventory, products, and sales for a pharmac
 ## 💡 Project Overview
 This system was designed to improve product control and organization in a real business environment, allowing efficient management of inventory and product information.
 
-## 📸 Screenshots
-(Add images here if
